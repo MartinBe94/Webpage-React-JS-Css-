@@ -1,0 +1,53 @@
+.bg{
+    background-image: url(./images/Go10.JPG);
+    width: 100%;
+    height: 100%;
+    position:flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: flex;
+    animation-name: example;
+    animation-duration: 60s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+    border-radius: 5%;
+}
+
+
+.Pic{
+  padding-bottom: 10px;
+  width: 15%;
+  height: 15%;
+  border-radius: 10%;
+  margin-left: 43%;
+  position: flex;
+  display: flex;
+  border-radius: 5%;
+}
+/* @keyframes example {
+    from {background-image: url(./images/sea.jpg);}
+    to {background-image: url(./images/ocean\ wave.jpg);}
+  } */
+  @keyframes example {
+  0%   {background-image: url(./images/Go1.JPG)}
+  12.5%  {background-image: url(./images/Go2.JPG)}
+  25%  {background-image: url(./images/Go3.JPG)}
+  37.5%  {background-image: url(./images/Go4.JPG)}
+  50% {background-image: url(./images/Go5.JPG)}
+  62.5% {background-image: url(./images/Go6.JPG)}
+  75% {background-image: url(./images/Go7.JPG)}
+  87.5% {background-image: url(./images/Go8.JPG)}
+  100% {background-image: url(./images/Go9.JPG)}
+
+  }
+
+  h2, h3
+  {
+    align-items: center;
+    height: 15vh;
+    justify-content: center;
+    display: flex;
+    font-size: 3rem;
+  }
