@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Just a simple webpage made with react and js.
+https://www.youtube.com/watch?v=FXhO-KLIZL8&ab_channel=Martinbe
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
